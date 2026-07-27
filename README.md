@@ -1,41 +1,95 @@
+<h1 align="center">Hi 👋, I'm Ebrahem Saeed</h1>
 
-**Front_End Web Developer · CS Student · Coffee Lover ☕**
+<h3 align="center">
+  Front-End Web Developer · CS Student · Building Modern Web Experiences
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ebrahemsaeed911-langstyle=for-the-badge" alt="Profile Views"/>
+  <a href="https://github.com/ebrahemsaeed911-lang">
+    <img src="https://komarev.com/ghpvc/?username=ebrahemsaeed911-lang&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  </a>
 </p>
 
-## 🚀 About Me
+---
 
-<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF"/>
+## 👨‍💻 About Me
 
-I am a Software Engineer skilled in python, react.js, html, css, and more. <br/>
-I have worked on projects that served thousands of users, built scalable applications, and continuously strive to improve my skills and contribute to impactful teams.
+<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="220" alt="Coding"/>
 
-
-
+- 💻 I'm a **Front-End Web Developer** passionate about creating modern and interactive web experiences.
+- 🎓 I'm currently studying **Computer Science**.
+- 🌱 I'm continuously improving my skills in **Web Development** and **Software Engineering**.
+- 🚀 I enjoy turning ideas into real-world projects and useful digital products.
+- 🧠 I'm interested in **Web Development, Software Engineering, AI, and Automation**.
+- ☕ Coffee helps me write better code.
+- 📚 Always learning. Always building.
 
 <br clear="right"/>
 
-## 🔧 My Tech Stack
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![html](https://img.shields.io/badge/html-339933?logo=html&logoColor=white)
-![css](https://img.shields.io/badge/css-black?logo=css.js&logoColor=white)
-![python](https://img.shields.io/badge/.py-47A248?logo=.py&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+## 🛠️ Tech Stack
 
-## 📊 GitHub Stats
+### 💻 Languages
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebrahemsaeed911-lang&layout=compact&theme=dark" alt="Top Languages"/>
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python" alt="Languages"/>
+</p>
 
-## 🎯 LeetCode Heatmap
+### ⚛️ Front-End & Frameworks
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Ebrahem_Saeed?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=react" alt="React"/>
+</p>
 
-</div>
+### 🔧 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,firebase,supabase" alt="Tools"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌙 Noor — Islamic Web App
+
+A modern Islamic web application focused on providing useful tools and an engaging experience for users.
+
+**Features include:**
+
+- 📖 Quran
+- 🎧 Quran Audio
+- 🧠 Memorization Quiz
+- 🧭 Qibla
+- 📱 Progressive Web App (PWA)
+
+---
+
+### ⏱️ Work Time Tracker
+
+A modern web-based time tracking application designed to help employees and businesses manage working hours, attendance, and payroll efficiently.
+
+**Key Features:**
+
+- 🕐 Track Working Hours
+- 📅 Manage Attendance
+- 💰 Calculate Salaries
+- 👥 Employee Management
+- 📊 Work & Attendance Reports
+- 📱 Responsive User Experience
+
+## 📈 My Development Journey
+
+```text
+HTML & CSS
+    ↓
+JavaScript
+    ↓
+React.js
+    ↓
+Building Real-World Projects
+    ↓
+Learning Backend & Full-Stack Development
+    ↓
+Becoming a Better Software Engineer 🚀
