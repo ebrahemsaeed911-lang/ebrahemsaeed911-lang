@@ -6,7 +6,10 @@
 
 <p align="center">
   <a href="https://github.com/ebrahemsaeed911-lang">
-    <img src="https://komarev.com/ghpvc/?username=ebrahemsaeed911-lang&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+    <img 
+      src="https://komarev.com/ghpvc/?username=ebrahemsaeed911-lang&style=for-the-badge&color=blueviolet" 
+      alt="Profile Views"
+    />
   </a>
 </p>
 
@@ -14,7 +17,12 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="220" alt="Coding"/>
+<img 
+  align="right" 
+  src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" 
+  width="220" 
+  alt="Coding"
+/>
 
 - 💻 I'm a **Front-End Web Developer** passionate about creating modern and interactive web experiences.
 - 🎓 I'm currently studying **Computer Science**.
@@ -33,19 +41,28 @@
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" alt="Languages"/>
+  <img 
+    src="https://skillicons.dev/icons?i=html,css,js,python" 
+    alt="Languages"
+  />
 </p>
 
 ### ⚛️ Front-End & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react" alt="React"/>
+  <img 
+    src="https://skillicons.dev/icons?i=react" 
+    alt="React"
+  />
 </p>
 
 ### 🔧 Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,firebase,supabase" alt="Tools"/>
+  <img 
+    src="https://skillicons.dev/icons?i=git,github,vscode,vercel,firebase,supabase" 
+    alt="Tools"
+  />
 </p>
 
 ---
@@ -54,30 +71,55 @@
 
 ### 🌙 Noor — Islamic Web App
 
-A modern Islamic web application focused on providing useful tools and an engaging experience for users.
+A modern Islamic web application designed to provide users with useful Islamic tools and an engaging experience.
 
 **Features include:**
 
 - 📖 Quran
 - 🎧 Quran Audio
-- 🧠 Memorization Quiz
-- 🧭 Qibla
+- 🧠 Quran Memorization
+- 🤲 Azkar & Duas
+- 🧭 Qibla Direction
+- 📿 Tasbeeh
+- 🕌 Prayer Times
 - 📱 Progressive Web App (PWA)
+
+<p>
+  <a href="https://noor-islamic-web.vercel.app/">
+    <img 
+      src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-2ea44f?style=for-the-badge" 
+      alt="Noor Live Demo"
+    />
+  </a>
+</p>
 
 ---
 
 ### ⏱️ Work Time Tracker
 
-A modern web-based time tracking application designed to help employees and businesses manage working hours, attendance, and payroll efficiently.
+A modern web-based work time tracking application designed to help users manage attendance, working hours, salaries, and deductions.
 
 **Key Features:**
 
-- 🕐 Track Working Hours
-- 📅 Manage Attendance
-- 💰 Calculate Salaries
-- 👥 Employee Management
-- 📊 Work & Attendance Reports
-- 📱 Responsive User Experience
+- 🕐 Check In & Check Out
+- 📅 Track Monthly Working Hours
+- 💰 Calculate Expected Salary
+- 📊 Track Salary Deductions
+- 💵 Calculate Net Salary
+- 📋 Manage Shift Records
+- 📈 View Work Reports
+- ⚙️ Custom Settings
+
+<p>
+  <a href="https://work-time-tracker-ibrahim.vercel.app/">
+    <img 
+      src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-2ea44f?style=for-the-badge" 
+      alt="Work Time Tracker Live Demo"
+    />
+  </a>
+</p>
+
+---
 
 ## 📈 My Development Journey
 
